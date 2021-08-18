@@ -1,0 +1,14 @@
+{
+  "profiles": {
+    "ConsoleLudo": {
+      "commandName": "Project"
+    },
+    "ConsoleLudo [WT]": {
+      "commandName": "Executable",
+      "executablePath": "%LOCALAPPDATA%\\Microsoft\\WindowsApps\\wt.exe",
+      "commandLineArgs": "dotnet.exe run -p %UserProfile%\\source\\repos\\ConsoleLudo\\ConsoleLudo.csproj",
+      "workingDirectory": "C:\\Users\\BluABK\\source\\repos\\ConsoleLudo",
+      "nativeDebugging": true
+    }
+  }
+}
