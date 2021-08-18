@@ -7,7 +7,6 @@ namespace ConsoleLudo
         static void Main(string[] args)
         {
             GameBoard board = new GameBoard();
-            //board.GetYards()[0].PrintASCIITable();
         }
     }
 }
